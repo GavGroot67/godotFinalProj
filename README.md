@@ -7,7 +7,12 @@ SCP 3D Horror Game
 - It'll include 5 SCP's, being 173, 049, 079, 096, and 106
 - 5 Keycard levels
   
-Story: You are the son of D-9391, and you were taken captive by the Chaos Insurgency. Lately, the Insurgency has trusted you because you grew up with them. They sent you in as an Insider for Site-### as a scientist; unfortunately for you, a containment breach happened again, with the D-Class rioting and letting 079 escape containment. Alarms blare as you lose your Level 1 Keycard. MTF have been notified to KOS everything and anybody in the facility. 
+Story: You are the son of D-9391, and you were taken captive by the Chaos Insurgency. 
+Lately, the Insurgency has trusted you because you grew up with them. 
+They sent you in as an Insider for Site-### as a scientist; unfortunately for you, a containment breach happened again.
+The D-Class rioted, letting 079 escape containment. 
+Alarms blare as you lose your Level 1 Keycard. 
+MTF have been notified to KOS everything and anybody in the facility. 
 
 Spawn Area (Lost L1 Card) - SCP-079 is a Constant Threat
   └─► Find Level 1 Keycard in Office and MTF Radio
