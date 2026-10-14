@@ -4,10 +4,10 @@ It's for my college class final.
 New Concept:
 SCP 3D Horror Game
 - Small Game, Not Crazy, But Kinda Inspired by Containment Breach
-- It'll include 5 SCP's, being 173, 049, 079, 096, and 106
+- It'll include 5 SCPs: 173, 049, 079, 096, and 106
 - 5 Keycard levels
   
-Story: You are the son of D-9391, and you were taken captive by the Chaos Insurgency. 
+Story: You are the son of D-9391, and the Chaos Insurgency took you captive. 
 Lately, the Insurgency has trusted you because you grew up with them. 
 They sent you in as an Insider for Site-### as a scientist; unfortunately for you, a containment breach happened again.
 The D-Class rioted, letting 079 escape containment. 
